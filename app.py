@@ -4,6 +4,9 @@ import plotly.express as px
 from PIL import Image
 import math
 
+pip install openpyxl
+import openpyxl
+
 df = pd.read_csv("sample_dataset.csv")
 transformasi_data = pd.read_csv("transformasi_data.csv")
 
