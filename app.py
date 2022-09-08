@@ -104,7 +104,7 @@ with tab_2:
 
     # Kebaikan Model
     st.subheader("Kebaikan Model")
-    kebaikan_model = pd.read_excel("model_summary.xlsx")
+    kebaikan_model = pd.read_csv("model_summary.csv")
     st.table(kebaikan_model)
     st.markdown("Dari tabel di atas diperoleh informasi bahwa kemampuan variabel independen dalam menjelaskan variasi dalam variabel rating  jumlah penilaian adalah sebesar 87.09%. Berarti terdapat 12.91% (100%-87.09%) varians dalam variabel rating  jumlah penilaian dijelaskan oleh faktor lain. Secara keseluruhan, model yang terbentuk sudah baik.")
 
