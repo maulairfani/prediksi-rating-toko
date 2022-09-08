@@ -1,0 +1,11 @@
+﻿No,Transformasi,R-Square,Adj. R-Square,Jumlah Variabel Signifikan
+1,Tanpa Transformasi,0.794787,0.779246,1
+2,Akar,0.806231,0.79132,1
+3,Logaritma,0.872179,0.8609,3
+4,Kuadrat,0.832617,0.819159,1
+5,Pangkat 3,0.752977,0.735133,1
+6,Kebalikan,0.557342,0.528721,1
+7,Kebalikan akar,0.723542,0.704076,1
+8,Kebalikan kuadrat,0.523965,0.493506,1
+9,Kebalikan pangkat 3,0.599454,0.573153,1
+10,Logaritma (kecuali lama_bergabung),0.87308,0.861851,4
