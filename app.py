@@ -4,7 +4,7 @@ import plotly.express as px
 from PIL import Image
 import math
 
-# pip install openpyxl
+!pip install openpyxl
 import openpyxl
 
 df = pd.read_csv("sample_dataset.csv")
